@@ -6,7 +6,7 @@
 ## Description
 
 Hello there,
-I'm Ali Ghasem Nejad, a software engineer, I love coding and learning more about new technologies and cryptography and their intersection which leads to cryptocurrencies and blockchain.
+I'm Ali Ghasem Nejad, a software engineer, I love coding and learning more about new technologies.
 
 ## Statics
 
