@@ -2,7 +2,10 @@
 ## Contact Information
 📧 Email : [alighn@duck.com](mailto:alighndev@protonmail.com)
 
-☎️ Phone Number: +(98) 937-812-3279 
+☎️ Phone Number: +(98) 937-812-3279
+
+
+![](./Resources/Star-Butterfly.jpg)
 
 ## Description
 
