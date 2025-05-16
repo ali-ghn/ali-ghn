@@ -2,11 +2,12 @@
 ## Contact Information
 📧 Email : [alighn@duck.com](mailto:alighndev@protonmail.com)
 
-☎️ Phone Number: +(98) 937-812-3279  
+☎️ Phone Number: +(98) 937-812-3279 
+
 ## Description
 
 Hello there,
-I'm Ali Ghasem Nejad, a software engineer, I love coding and learning more about new technologies.
+I'm Alice Wonders (Ali Ghasem Nejad), a software engineer, I love coding and learning more about new technologies.
 
 ## Statics
 
